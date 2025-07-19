@@ -1,0 +1,2301 @@
+[
+  {
+    "level": 1,
+    "theme": "Brazil",
+    "letters": [
+      "A",
+      "T",
+      "N",
+      "R",
+      "D",
+      "E",
+      "V"
+    ],
+    "answers": {
+      "ADVENTURE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 2,
+    "theme": "Turkey",
+    "letters": [
+      "T",
+      "S",
+      "A",
+      "U",
+      "M",
+      "N",
+      "Q"
+    ],
+    "answers": {
+      "AUTUMN": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 3,
+    "theme": "India",
+    "letters": [
+      "G",
+      "L",
+      "N",
+      "C",
+      "E",
+      "B",
+      "A"
+    ],
+    "answers": {
+      "BALANCE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 4,
+    "theme": "Italy",
+    "letters": [
+      "E",
+      "T",
+      "A",
+      "U",
+      "L",
+      "F",
+      "B"
+    ],
+    "answers": {
+      "BEAUTIFUL": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 5,
+    "theme": "Italy",
+    "letters": [
+      "R",
+      "P",
+      "D",
+      "J",
+      "B",
+      "I",
+      "H"
+    ],
+    "answers": {
+      "BIRD": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 6,
+    "theme": "Egypt",
+    "letters": [
+      "J",
+      "R",
+      "O",
+      "X",
+      "V",
+      "K",
+      "B"
+    ],
+    "answers": {
+      "BOOK": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 7,
+    "theme": "China",
+    "letters": [
+      "V",
+      "B",
+      "E",
+      "R",
+      "H",
+      "L",
+      "A"
+    ],
+    "answers": {
+      "BRAVE": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 8,
+    "theme": "China",
+    "letters": [
+      "G",
+      "H",
+      "R",
+      "I",
+      "B",
+      "T",
+      "W"
+    ],
+    "answers": {
+      "BRIGHT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 9,
+    "theme": "Japan",
+    "letters": [
+      "R",
+      "I",
+      "A",
+      "L",
+      "B",
+      "T",
+      "N"
+    ],
+    "answers": {
+      "BRILLIANT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 10,
+    "theme": "Turkey",
+    "letters": [
+      "T",
+      "R",
+      "P",
+      "U",
+      "A",
+      "C",
+      "E"
+    ],
+    "answers": {
+      "CAPTURE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 11,
+    "theme": "Greece",
+    "letters": [
+      "L",
+      "T",
+      "C",
+      "S",
+      "A",
+      "F",
+      "E"
+    ],
+    "answers": {
+      "CASTLE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 12,
+    "theme": "Italy",
+    "letters": [
+      "N",
+      "L",
+      "H",
+      "A",
+      "G",
+      "C",
+      "E"
+    ],
+    "answers": {
+      "CHALLENGE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 13,
+    "theme": "China",
+    "letters": [
+      "H",
+      "P",
+      "M",
+      "O",
+      "C",
+      "A",
+      "N"
+    ],
+    "answers": {
+      "CHAMPION": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 14,
+    "theme": "Peru",
+    "letters": [
+      "W",
+      "V",
+      "C",
+      "R",
+      "E",
+      "L",
+      "N"
+    ],
+    "answers": {
+      "CLEVER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 15,
+    "theme": "Turkey",
+    "letters": [
+      "O",
+      "L",
+      "D",
+      "S",
+      "C",
+      "F",
+      "U"
+    ],
+    "answers": {
+      "CLOUD": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 16,
+    "theme": "Peru",
+    "letters": [
+      "C",
+      "G",
+      "R",
+      "O",
+      "U",
+      "A",
+      "E"
+    ],
+    "answers": {
+      "COURAGE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 17,
+    "theme": "India",
+    "letters": [
+      "T",
+      "E",
+      "C",
+      "N",
+      "D",
+      "A",
+      "S"
+    ],
+    "answers": {
+      "DANCE": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 18,
+    "theme": "India",
+    "letters": [
+      "H",
+      "D",
+      "I",
+      "G",
+      "T",
+      "L",
+      "E"
+    ],
+    "answers": {
+      "DELIGHT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 19,
+    "theme": "Italy",
+    "letters": [
+      "W",
+      "A",
+      "O",
+      "N",
+      "M",
+      "I",
+      "D"
+    ],
+    "answers": {
+      "DIAMOND": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 20,
+    "theme": "Egypt",
+    "letters": [
+      "R",
+      "E",
+      "C",
+      "S",
+      "V",
+      "D",
+      "O"
+    ],
+    "answers": {
+      "DISCOVER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 21,
+    "theme": "Brazil",
+    "letters": [
+      "A",
+      "G",
+      "D",
+      "R",
+      "X",
+      "O",
+      "N"
+    ],
+    "answers": {
+      "DRAGON": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 22,
+    "theme": "France",
+    "letters": [
+      "E",
+      "B",
+      "A",
+      "D",
+      "R",
+      "W",
+      "Y"
+    ],
+    "answers": {
+      "DRAW": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 23,
+    "theme": "France",
+    "letters": [
+      "A",
+      "I",
+      "R",
+      "D",
+      "E",
+      "M",
+      "H"
+    ],
+    "answers": {
+      "DREAM": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 24,
+    "theme": "Egypt",
+    "letters": [
+      "T",
+      "E",
+      "F",
+      "Z",
+      "R",
+      "A",
+      "H"
+    ],
+    "answers": {
+      "EARTH": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 25,
+    "theme": "Egypt",
+    "letters": [
+      "E",
+      "C",
+      "B",
+      "S",
+      "I",
+      "L",
+      "P"
+    ],
+    "answers": {
+      "ECLIPSE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 26,
+    "theme": "Brazil",
+    "letters": [
+      "C",
+      "E",
+      "A",
+      "N",
+      "D",
+      "H",
+      "T"
+    ],
+    "answers": {
+      "ENCHANTED": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 27,
+    "theme": "India",
+    "letters": [
+      "L",
+      "Y",
+      "P",
+      "E",
+      "O",
+      "X",
+      "R"
+    ],
+    "answers": {
+      "EXPLORE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 28,
+    "theme": "Greece",
+    "letters": [
+      "L",
+      "F",
+      "N",
+      "A",
+      "T",
+      "Y",
+      "S"
+    ],
+    "answers": {
+      "FANTASY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 29,
+    "theme": "China",
+    "letters": [
+      "F",
+      "V",
+      "O",
+      "E",
+      "R",
+      "N",
+      "I"
+    ],
+    "answers": {
+      "FIRE": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 30,
+    "theme": "Turkey",
+    "letters": [
+      "I",
+      "H",
+      "B",
+      "N",
+      "S",
+      "Q",
+      "F"
+    ],
+    "answers": {
+      "FISH": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 31,
+    "theme": "Brazil",
+    "letters": [
+      "F",
+      "H",
+      "O",
+      "R",
+      "T",
+      "S",
+      "E"
+    ],
+    "answers": {
+      "FOREST": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 32,
+    "theme": "Italy",
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "M",
+      "D",
+      "E",
+      "O"
+    ],
+    "answers": {
+      "FREEDOM": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 33,
+    "theme": "Italy",
+    "letters": [
+      "E",
+      "O",
+      "Z",
+      "S",
+      "F",
+      "H",
+      "R"
+    ],
+    "answers": {
+      "FRESH": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 34,
+    "theme": "China",
+    "letters": [
+      "C",
+      "U",
+      "H",
+      "Y",
+      "G",
+      "F",
+      "N"
+    ],
+    "answers": {
+      "FUNNY": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 35,
+    "theme": "France",
+    "letters": [
+      "W",
+      "G",
+      "R",
+      "D",
+      "E",
+      "A",
+      "N"
+    ],
+    "answers": {
+      "GARDEN": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 36,
+    "theme": "Italy",
+    "letters": [
+      "J",
+      "Z",
+      "T",
+      "A",
+      "P",
+      "H",
+      "Y"
+    ],
+    "answers": {
+      "HAPPY": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 37,
+    "theme": "Turkey",
+    "letters": [
+      "H",
+      "A",
+      "Y",
+      "R",
+      "M",
+      "N",
+      "O"
+    ],
+    "answers": {
+      "HARMONY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 38,
+    "theme": "Greece",
+    "letters": [
+      "H",
+      "D",
+      "E",
+      "O",
+      "T",
+      "U",
+      "P"
+    ],
+    "answers": {
+      "HOPE": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 39,
+    "theme": "Greece",
+    "letters": [
+      "L",
+      "I",
+      "O",
+      "U",
+      "N",
+      "G",
+      "S"
+    ],
+    "answers": {
+      "ILLUSION": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 40,
+    "theme": "Peru",
+    "letters": [
+      "G",
+      "N",
+      "O",
+      "M",
+      "T",
+      "I",
+      "A"
+    ],
+    "answers": {
+      "IMAGINATION": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "level": 41,
+    "theme": "Greece",
+    "letters": [
+      "T",
+      "N",
+      "Y",
+      "L",
+      "I",
+      "F",
+      "A"
+    ],
+    "answers": {
+      "INFINITY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 42,
+    "theme": "Italy",
+    "letters": [
+      "N",
+      "Y",
+      "R",
+      "E",
+      "O",
+      "J",
+      "U"
+    ],
+    "answers": {
+      "JOURNEY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 43,
+    "theme": "Egypt",
+    "letters": [
+      "L",
+      "X",
+      "J",
+      "U",
+      "P",
+      "Q",
+      "M"
+    ],
+    "answers": {
+      "JUMP": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 44,
+    "theme": "Turkey",
+    "letters": [
+      "Q",
+      "L",
+      "P",
+      "C",
+      "I",
+      "F",
+      "E"
+    ],
+    "answers": {
+      "LIFE": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 45,
+    "theme": "France",
+    "letters": [
+      "J",
+      "I",
+      "L",
+      "Q",
+      "G",
+      "H",
+      "T"
+    ],
+    "answers": {
+      "LIGHT": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 46,
+    "theme": "Peru",
+    "letters": [
+      "V",
+      "I",
+      "B",
+      "O",
+      "L",
+      "E",
+      "U"
+    ],
+    "answers": {
+      "LOVE": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 47,
+    "theme": "France",
+    "letters": [
+      "B",
+      "X",
+      "A",
+      "C",
+      "M",
+      "I",
+      "G"
+    ],
+    "answers": {
+      "MAGIC": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 48,
+    "theme": "China",
+    "letters": [
+      "F",
+      "C",
+      "G",
+      "T",
+      "A",
+      "E",
+      "N"
+    ],
+    "answers": {
+      "MAGNIFICENT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  },
+  {
+    "level": 49,
+    "theme": "Greece",
+    "letters": [
+      "M",
+      "I",
+      "N",
+      "U",
+      "L",
+      "S",
+      "O"
+    ],
+    "answers": {
+      "MOON": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 50,
+    "theme": "China",
+    "letters": [
+      "O",
+      "U",
+      "I",
+      "A",
+      "M",
+      "N",
+      "T"
+    ],
+    "answers": {
+      "MOUNTAIN": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 51,
+    "theme": "India",
+    "letters": [
+      "U",
+      "M",
+      "C",
+      "Y",
+      "S",
+      "N",
+      "I"
+    ],
+    "answers": {
+      "MUSIC": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 52,
+    "theme": "Italy",
+    "letters": [
+      "E",
+      "R",
+      "S",
+      "V",
+      "T",
+      "M",
+      "Y"
+    ],
+    "answers": {
+      "MYSTERY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 53,
+    "theme": "Italy",
+    "letters": [
+      "C",
+      "N",
+      "T",
+      "A",
+      "O",
+      "E",
+      "B"
+    ],
+    "answers": {
+      "OCEAN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 54,
+    "theme": "India",
+    "letters": [
+      "C",
+      "S",
+      "E",
+      "K",
+      "A",
+      "R",
+      "P"
+    ],
+    "answers": {
+      "PEACE": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 55,
+    "theme": "Turkey",
+    "letters": [
+      "L",
+      "P",
+      "E",
+      "T",
+      "Y",
+      "N",
+      "A"
+    ],
+    "answers": {
+      "PLANET": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 56,
+    "theme": "Italy",
+    "letters": [
+      "O",
+      "K",
+      "P",
+      "L",
+      "N",
+      "A",
+      "T"
+    ],
+    "answers": {
+      "PLANT": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 57,
+    "theme": "Greece",
+    "letters": [
+      "F",
+      "T",
+      "K",
+      "P",
+      "L",
+      "A",
+      "Y"
+    ],
+    "answers": {
+      "PLAY": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 58,
+    "theme": "Egypt",
+    "letters": [
+      "N",
+      "Z",
+      "U",
+      "E",
+      "T",
+      "L",
+      "P"
+    ],
+    "answers": {
+      "PUZZLE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 59,
+    "theme": "China",
+    "letters": [
+      "Q",
+      "I",
+      "U",
+      "T",
+      "K",
+      "C",
+      "W"
+    ],
+    "answers": {
+      "QUICK": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 60,
+    "theme": "China",
+    "letters": [
+      "L",
+      "I",
+      "U",
+      "A",
+      "Q",
+      "E",
+      "T"
+    ],
+    "answers": {
+      "QUIET": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 61,
+    "theme": "China",
+    "letters": [
+      "I",
+      "N",
+      "A",
+      "R",
+      "Y",
+      "U",
+      "X"
+    ],
+    "answers": {
+      "RAIN": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 62,
+    "theme": "Japan",
+    "letters": [
+      "A",
+      "W",
+      "I",
+      "B",
+      "O",
+      "N",
+      "R"
+    ],
+    "answers": {
+      "RAINBOW": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 63,
+    "theme": "Italy",
+    "letters": [
+      "R",
+      "K",
+      "E",
+      "G",
+      "D",
+      "H",
+      "A"
+    ],
+    "answers": {
+      "READ": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 64,
+    "theme": "Japan",
+    "letters": [
+      "F",
+      "R",
+      "N",
+      "C",
+      "E",
+      "T",
+      "L"
+    ],
+    "answers": {
+      "REFLECTION": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "level": 65,
+    "theme": "France",
+    "letters": [
+      "R",
+      "A",
+      "G",
+      "E",
+      "V",
+      "I",
+      "X"
+    ],
+    "answers": {
+      "RIVER": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 66,
+    "theme": "Greece",
+    "letters": [
+      "S",
+      "R",
+      "P",
+      "X",
+      "N",
+      "D",
+      "U"
+    ],
+    "answers": {
+      "RUN": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "level": 67,
+    "theme": "Greece",
+    "letters": [
+      "S",
+      "P",
+      "E",
+      "T",
+      "U",
+      "C",
+      "R"
+    ],
+    "answers": {
+      "SECRET": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 68,
+    "theme": "China",
+    "letters": [
+      "N",
+      "E",
+      "S",
+      "Y",
+      "R",
+      "I",
+      "T"
+    ],
+    "answers": {
+      "SERENITY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 69,
+    "theme": "India",
+    "letters": [
+      "H",
+      "A",
+      "O",
+      "D",
+      "W",
+      "S",
+      "N"
+    ],
+    "answers": {
+      "SHADOW": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 70,
+    "theme": "Japan",
+    "letters": [
+      "A",
+      "R",
+      "E",
+      "P",
+      "S",
+      "H",
+      "G"
+    ],
+    "answers": {
+      "SHARP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 71,
+    "theme": "India",
+    "letters": [
+      "E",
+      "N",
+      "L",
+      "Z",
+      "I",
+      "C",
+      "S"
+    ],
+    "answers": {
+      "SILENCE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 72,
+    "theme": "Italy",
+    "letters": [
+      "S",
+      "N",
+      "A",
+      "I",
+      "G",
+      "M",
+      "R"
+    ],
+    "answers": {
+      "SING": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 73,
+    "theme": "Egypt",
+    "letters": [
+      "M",
+      "I",
+      "W",
+      "E",
+      "O",
+      "L",
+      "S"
+    ],
+    "answers": {
+      "SMILE": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 74,
+    "theme": "France",
+    "letters": [
+      "U",
+      "S",
+      "T",
+      "E",
+      "O",
+      "N",
+      "W"
+    ],
+    "answers": {
+      "SNOW": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 75,
+    "theme": "Japan",
+    "letters": [
+      "H",
+      "S",
+      "O",
+      "N",
+      "B",
+      "G",
+      "F"
+    ],
+    "answers": {
+      "SONG": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 76,
+    "theme": "Greece",
+    "letters": [
+      "K",
+      "H",
+      "R",
+      "P",
+      "Y",
+      "S",
+      "A"
+    ],
+    "answers": {
+      "SPARK": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 77,
+    "theme": "Greece",
+    "letters": [
+      "T",
+      "I",
+      "R",
+      "E",
+      "P",
+      "S",
+      "J"
+    ],
+    "answers": {
+      "SPIRIT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 78,
+    "theme": "Japan",
+    "letters": [
+      "E",
+      "G",
+      "S",
+      "P",
+      "N",
+      "R",
+      "I"
+    ],
+    "answers": {
+      "SPRING": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 79,
+    "theme": "Japan",
+    "letters": [
+      "A",
+      "H",
+      "D",
+      "E",
+      "R",
+      "S",
+      "T"
+    ],
+    "answers": {
+      "STAR": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 80,
+    "theme": "France",
+    "letters": [
+      "R",
+      "T",
+      "L",
+      "H",
+      "A",
+      "S",
+      "G"
+    ],
+    "answers": {
+      "STARLIGHT": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "level": 81,
+    "theme": "Egypt",
+    "letters": [
+      "T",
+      "R",
+      "M",
+      "S",
+      "F",
+      "C",
+      "O"
+    ],
+    "answers": {
+      "STORM": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 82,
+    "theme": "Italy",
+    "letters": [
+      "E",
+      "S",
+      "U",
+      "R",
+      "T",
+      "Z",
+      "M"
+    ],
+    "answers": {
+      "SUMMER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 83,
+    "theme": "Japan",
+    "letters": [
+      "S",
+      "B",
+      "Y",
+      "V",
+      "U",
+      "Z",
+      "N"
+    ],
+    "answers": {
+      "SUNNY": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 84,
+    "theme": "Peru",
+    "letters": [
+      "W",
+      "F",
+      "E",
+      "N",
+      "T",
+      "U",
+      "S"
+    ],
+    "answers": {
+      "SUNSET": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 85,
+    "theme": "India",
+    "letters": [
+      "G",
+      "N",
+      "T",
+      "O",
+      "W",
+      "S",
+      "E"
+    ],
+    "answers": {
+      "SWEET": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 86,
+    "theme": "India",
+    "letters": [
+      "O",
+      "P",
+      "S",
+      "M",
+      "Y",
+      "H",
+      "N"
+    ],
+    "answers": {
+      "SYMPHONY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 87,
+    "theme": "India",
+    "letters": [
+      "H",
+      "T",
+      "K",
+      "E",
+      "L",
+      "A",
+      "R"
+    ],
+    "answers": {
+      "TALK": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 88,
+    "theme": "Brazil",
+    "letters": [
+      "D",
+      "H",
+      "R",
+      "E",
+      "N",
+      "U",
+      "T"
+    ],
+    "answers": {
+      "THUNDER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 89,
+    "theme": "Egypt",
+    "letters": [
+      "I",
+      "T",
+      "E",
+      "Q",
+      "M",
+      "B",
+      "O"
+    ],
+    "answers": {
+      "TIME": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 90,
+    "theme": "Peru",
+    "letters": [
+      "A",
+      "S",
+      "E",
+      "I",
+      "U",
+      "T",
+      "R"
+    ],
+    "answers": {
+      "TREASURE": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 91,
+    "theme": "Italy",
+    "letters": [
+      "O",
+      "S",
+      "D",
+      "T",
+      "Z",
+      "R",
+      "E"
+    ],
+    "answers": {
+      "TREE": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 92,
+    "theme": "Turkey",
+    "letters": [
+      "Y",
+      "E",
+      "T",
+      "V",
+      "L",
+      "C",
+      "O"
+    ],
+    "answers": {
+      "VELOCITY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "level": 93,
+    "theme": "Brazil",
+    "letters": [
+      "I",
+      "C",
+      "Y",
+      "O",
+      "R",
+      "V",
+      "T"
+    ],
+    "answers": {
+      "VICTORY": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 94,
+    "theme": "Brazil",
+    "letters": [
+      "F",
+      "M",
+      "W",
+      "A",
+      "L",
+      "K",
+      "C"
+    ],
+    "answers": {
+      "WALK": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 95,
+    "theme": "Turkey",
+    "letters": [
+      "E",
+      "R",
+      "T",
+      "H",
+      "S",
+      "W",
+      "A"
+    ],
+    "answers": {
+      "WATER": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "level": 96,
+    "theme": "France",
+    "letters": [
+      "I",
+      "W",
+      "H",
+      "E",
+      "S",
+      "R",
+      "P"
+    ],
+    "answers": {
+      "WHISPER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "level": 97,
+    "theme": "Brazil",
+    "letters": [
+      "O",
+      "D",
+      "G",
+      "N",
+      "R",
+      "I",
+      "W"
+    ],
+    "answers": {
+      "WIND": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "level": 98,
+    "theme": "China",
+    "letters": [
+      "R",
+      "T",
+      "Y",
+      "E",
+      "N",
+      "I",
+      "W"
+    ],
+    "answers": {
+      "WINTER": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 99,
+    "theme": "Brazil",
+    "letters": [
+      "D",
+      "O",
+      "M",
+      "W",
+      "I",
+      "S",
+      "Y"
+    ],
+    "answers": {
+      "WISDOM": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "level": 100,
+    "theme": "Greece",
+    "letters": [
+      "E",
+      "F",
+      "N",
+      "R",
+      "W",
+      "L",
+      "D"
+    ],
+    "answers": {
+      "WONDERFUL": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  }
+]
